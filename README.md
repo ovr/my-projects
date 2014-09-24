@@ -3,9 +3,9 @@ My open source projects
 
 ## For Phalcon
 
-### Phalcon-module-skeleton
+### Phalcon-module-skeleton [github](https://github.com/ovr/phalcon-module-skeleton) [website](http://phalcon-module.dmtry.me/)
 
-### Phalcony
+### Phalcony [github](https://github.com/ovr/phalcony)
 
 ## SocialConnect [github](https://github.com/SocialConnect) [website](http://social-connect.dmtry.me/)
 
