@@ -25,4 +25,4 @@ My open source projects
 
 ## Analytic-geometry-exam-book
 
-## Webjs-bitrix-olympiad-2014
+## Webjs-bitrix-olympiad-2014 [github](https://github.com/ovr/webjs-bitrix-olympiad-2014) [demo](http://ovr.github.io/webjs-bitrix-olympiad-2014/)
