@@ -1,6 +1,9 @@
 My open source projects
 =======================
 
+Read more about me on [dmtry.me/about](http://dmtry.me/about)
+
+
 ## For Phalcon
 
 ### Phalcon-module-skeleton [github](https://github.com/ovr/phalcon-module-skeleton) [website](http://phalcon-module.dmtry.me/)
