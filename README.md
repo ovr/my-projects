@@ -9,7 +9,7 @@ My open source projects
 
 ## SocialConnect [github](https://github.com/SocialConnect) [website](http://social-connect.dmtry.me/)
 
-## Lynx
+## Lynx [github](https://github.com/lynx/lynx)
 
 ## Cacher [github](https://github.com/ovr/cacher)
 
