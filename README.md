@@ -1,7 +1,7 @@
 My open source projects
 =======================
 
-Read more about me on [dmtry.me/about](http://dmtry.me/about)
+Read more about me on [dmtry.me/about](http://dmtry.me/about).
 
 
 ## For Phalcon
