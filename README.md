@@ -16,7 +16,7 @@ Read more about me on [dmtry.me/about](http://dmtry.me/about).
 
 ## Cacher [github](https://github.com/ovr/cacher)
 
-## Github-webhook-service
+## Github-webhook-service [github](https://github.com/ovr/github-webhook-service) 
 
 ## Backbone-skeleton
 
@@ -24,7 +24,7 @@ Read more about me on [dmtry.me/about](http://dmtry.me/about).
 
 ## Shingles
 
-## Machine-post
+## Machine-post  [github](https://github.com/ovr/machine-post) 
 
 ## Analytic-geometry-exam-book
 
