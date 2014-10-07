@@ -24,7 +24,7 @@ Read more about me on [dmtry.me/about](http://dmtry.me/about).
 
 ## Shingles
 
-## Machine-post  [github](https://github.com/ovr/machine-post) 
+## Machine-post  [github](https://github.com/ovr/machine-post) [website](http://post.dmtry.me/)
 
 ## Analytic-geometry-exam-book
 
